@@ -1,0 +1,10 @@
+name: TPS-Holder
+version: '1.0'
+main: ceres.th.TPSHolderCore
+api-version: '1.20'
+prefix: TPSH
+load: STARTUP
+authors: [ Ceres ]
+depend: [PlaceholderAPI]
+description: Muestras los tps en folia
+folia-supported: true
