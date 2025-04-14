@@ -1,4 +1,4 @@
-Añade añade unos place holder para mirar los tps de un servidor de folia
+Añade unos placeholder para mirar los tps de un servidor de folia
 ## Holders
 `%TPS-Holder_average-tps%`
 `%TPS-Holder_min-tps%`
